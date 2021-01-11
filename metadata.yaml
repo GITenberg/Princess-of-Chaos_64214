@@ -1,5 +1,8 @@
 _repo: Princess-of-Chaos_64214
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64214-h/images/cover.jpg
 creator:
   author:
     agent_name: Walton, Bryce
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33100
     wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64214#Princess-of-Chaos
 gutenberg_issued: '2021-01-04'
 gutenberg_type: Text
 identifiers:
